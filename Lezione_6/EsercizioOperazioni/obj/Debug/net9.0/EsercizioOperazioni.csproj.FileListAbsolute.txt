@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\bin\Debug\net9.0\EsercizioOperazioni.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\bin\Debug\net9.0\EsercizioOperazioni.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\bin\Debug\net9.0\EsercizioOperazioni.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\bin\Debug\net9.0\EsercizioOperazioni.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\bin\Debug\net9.0\EsercizioOperazioni.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\EsercizioOperazioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\EsercizioOperazioni.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\EsercizioOperazioni.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\EsercizioOperazioni.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\EsercizioOperazioni.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\refint\EsercizioOperazioni.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\EsercizioOperazioni.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\EsercizioOperazioni.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioOperazioni\obj\Debug\net9.0\ref\EsercizioOperazioni.dll
