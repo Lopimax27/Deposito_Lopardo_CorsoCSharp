@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\bin\Debug\net9.0\EserciziPomeriggio5.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\bin\Debug\net9.0\EserciziPomeriggio5.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\bin\Debug\net9.0\EserciziPomeriggio5.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\bin\Debug\net9.0\EserciziPomeriggio5.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\bin\Debug\net9.0\EserciziPomeriggio5.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\EserciziPomeriggio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\EserciziPomeriggio5.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\EserciziPomeriggio5.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\EserciziPomeriggio5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\EserciziPomeriggio5.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\refint\EserciziPomeriggio5.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\EserciziPomeriggio5.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\EserciziPomeriggio5.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziPomeriggio5\obj\Debug\net9.0\ref\EserciziPomeriggio5.dll

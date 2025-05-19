@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\bin\Debug\net9.0\EsercizioClasseStudenti.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\bin\Debug\net9.0\EsercizioClasseStudenti.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\bin\Debug\net9.0\EsercizioClasseStudenti.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\bin\Debug\net9.0\EsercizioClasseStudenti.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\bin\Debug\net9.0\EsercizioClasseStudenti.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\EsercizioClasseStudenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\EsercizioClasseStudenti.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\EsercizioClasseStudenti.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\EsercizioClasseStudenti.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\EsercizioClasseStudenti.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\refint\EsercizioClasseStudenti.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\EsercizioClasseStudenti.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\EsercizioClasseStudenti.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\EsercizioClasseStudenti\obj\Debug\net9.0\ref\EsercizioClasseStudenti.dll

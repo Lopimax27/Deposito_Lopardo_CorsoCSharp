@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\bin\Debug\net9.0\ClassePersona.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\bin\Debug\net9.0\ClassePersona.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\bin\Debug\net9.0\ClassePersona.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\bin\Debug\net9.0\ClassePersona.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\bin\Debug\net9.0\ClassePersona.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ClassePersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ClassePersona.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ClassePersona.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ClassePersona.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ClassePersona.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\refint\ClassePersona.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ClassePersona.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ClassePersona.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_6\ClassePersona\obj\Debug\net9.0\ref\ClassePersona.dll
