@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioCalcolatricePassword\\EsercizioCalcolatricePassword.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioMacchina\\EsercizioMacchina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioCalcolatricePassword\\EsercizioCalcolatricePassword.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioMacchina\\EsercizioMacchina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioCalcolatricePassword\\EsercizioCalcolatricePassword.csproj",
-        "projectName": "EsercizioCalcolatricePassword",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioCalcolatricePassword\\EsercizioCalcolatricePassword.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioMacchina\\EsercizioMacchina.csproj",
+        "projectName": "EsercizioMacchina",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioMacchina\\EsercizioMacchina.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioCalcolatricePassword\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\EsercizioMacchina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

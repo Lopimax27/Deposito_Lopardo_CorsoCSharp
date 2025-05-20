@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\bin\Debug\net9.0\EsercizioMacchina.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\bin\Debug\net9.0\EsercizioMacchina.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\bin\Debug\net9.0\EsercizioMacchina.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\bin\Debug\net9.0\EsercizioMacchina.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\bin\Debug\net9.0\EsercizioMacchina.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\refint\EsercizioMacchina.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\EsercizioMacchina.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioMacchina\obj\Debug\net9.0\ref\EsercizioMacchina.dll

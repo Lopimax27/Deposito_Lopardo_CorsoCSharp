@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercizioLibri", "Esercizio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercizioCalcolatricePassword", "EsercizioCalcolatricePassword\EsercizioCalcolatricePassword.csproj", "{A1C8E120-774F-4324-B67A-A288EDEFD40F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercizioMacchina", "EsercizioMacchina\EsercizioMacchina.csproj", "{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{A1C8E120-774F-4324-B67A-A288EDEFD40F}.Release|x64.Build.0 = Release|Any CPU
 		{A1C8E120-774F-4324-B67A-A288EDEFD40F}.Release|x86.ActiveCfg = Release|Any CPU
 		{A1C8E120-774F-4324-B67A-A288EDEFD40F}.Release|x86.Build.0 = Release|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Debug|x64.Build.0 = Debug|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Debug|x86.Build.0 = Debug|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Release|x64.ActiveCfg = Release|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Release|x64.Build.0 = Release|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Release|x86.ActiveCfg = Release|Any CPU
+		{8C06EBA1-9BAB-4FA9-805F-4B160BF29547}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

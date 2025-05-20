@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj",
         "projectName": "MetodiSpeciali",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\MetodiSpeciali\\MetodiSpeciali.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Settimana_2\\Lezione_7\\MetodiSpeciali\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\ale\\Corso C#\\Deposito_Lopardo_CorsoCSharp\\Settimana_2\\Lezione_7\\MetodiSpeciali\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
