@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\bin\Debug\net9.0\EsercizioArray.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\bin\Debug\net9.0\EsercizioArray.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\bin\Debug\net9.0\EsercizioArray.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\bin\Debug\net9.0\EsercizioArray.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\bin\Debug\net9.0\EsercizioArray.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\refint\EsercizioArray.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\EsercizioArray.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_7\EsercizioArray\obj\Debug\net9.0\ref\EsercizioArray.dll
