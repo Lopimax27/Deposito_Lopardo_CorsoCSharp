@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\bin\Debug\net9.0\EserciziLezione2.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\bin\Debug\net9.0\EserciziLezione2.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\bin\Debug\net9.0\EserciziLezione2.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\bin\Debug\net9.0\EserciziLezione2.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\bin\Debug\net9.0\EserciziLezione2.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\EserciziLezione2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\EserciziLezione2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\EserciziLezione2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\EserciziLezione2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\EserciziLezione2.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\refint\EserciziLezione2.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\EserciziLezione2.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\EserciziLezione2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Lezione_2\EserciziLezione2\obj\Debug\net9.0\ref\EserciziLezione2.dll

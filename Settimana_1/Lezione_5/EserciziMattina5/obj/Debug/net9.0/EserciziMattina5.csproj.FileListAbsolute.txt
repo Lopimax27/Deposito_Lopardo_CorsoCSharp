@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\bin\Debug\net9.0\EserciziMattina5.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\bin\Debug\net9.0\EserciziMattina5.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\bin\Debug\net9.0\EserciziMattina5.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\bin\Debug\net9.0\EserciziMattina5.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\bin\Debug\net9.0\EserciziMattina5.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\EserciziMattina5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\EserciziMattina5.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\EserciziMattina5.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\EserciziMattina5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\EserciziMattina5.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\refint\EserciziMattina5.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\EserciziMattina5.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\EserciziMattina5.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_1\Lezione_5\EserciziMattina5\obj\Debug\net9.0\ref\EserciziMattina5.dll
