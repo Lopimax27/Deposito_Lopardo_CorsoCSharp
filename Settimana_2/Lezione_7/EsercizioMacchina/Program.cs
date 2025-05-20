@@ -107,7 +107,6 @@ public class Program
             {
                 case 1:
                     miaAuto.velocitaMax += 10;
-
                     break;
                 case 2:
                     miaAuto.motore = Console.ReadLine();
@@ -122,10 +121,12 @@ public class Program
                     break;
             }
 
-            miaAuto.nrModifiche++;
+            Console.WriteLine($"La macchina di {utente} {miaAuto} ");
+
             utente.credito--;
+            miaAuto.nrModifiche++;
         }
 
-        Console.WriteLine($"La macchina di {utente} {miaAuto} ");
+        
     }
 }
