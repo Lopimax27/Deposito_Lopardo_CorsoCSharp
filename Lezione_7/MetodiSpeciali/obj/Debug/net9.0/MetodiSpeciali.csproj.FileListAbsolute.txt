@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\bin\Debug\net9.0\MetodiSpeciali.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\bin\Debug\net9.0\MetodiSpeciali.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\bin\Debug\net9.0\MetodiSpeciali.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\bin\Debug\net9.0\MetodiSpeciali.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\bin\Debug\net9.0\MetodiSpeciali.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\MetodiSpeciali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\MetodiSpeciali.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\MetodiSpeciali.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\MetodiSpeciali.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\MetodiSpeciali.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\refint\MetodiSpeciali.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\MetodiSpeciali.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\MetodiSpeciali.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Settimana_2\Lezione_7\MetodiSpeciali\obj\Debug\net9.0\ref\MetodiSpeciali.dll
