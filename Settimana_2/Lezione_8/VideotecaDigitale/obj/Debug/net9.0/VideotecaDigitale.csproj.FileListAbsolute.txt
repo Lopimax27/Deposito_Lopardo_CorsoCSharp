@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\bin\Debug\net9.0\VideotecaDigitale.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\bin\Debug\net9.0\VideotecaDigitale.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\bin\Debug\net9.0\VideotecaDigitale.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\bin\Debug\net9.0\VideotecaDigitale.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\bin\Debug\net9.0\VideotecaDigitale.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\refint\VideotecaDigitale.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\VideotecaDigitale.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\VideotecaDigitale\obj\Debug\net9.0\ref\VideotecaDigitale.dll
