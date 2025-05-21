@@ -15,7 +15,7 @@ public class Film
 
     public override string ToString()
     {
-        return $"Il film {titolo} di {regista} dell'anno {anno}, genere {genere}";
+        return $"Il film {titolo} di {regista} dell'anno {anno}, genere {genere} è presente in raccolta";
     }
 }
 
@@ -39,7 +39,7 @@ public class Program
                     videoteca.Add(InputUtente());
                     break;
                 case 2:
-                    SceltaGenere(videoteca);
+                    RicercaFilm(videoteca);
                     break;
                 case 3:
                     Stampa(videoteca);
@@ -81,7 +81,31 @@ public class Program
         }
     }
 
-    public static void SceltaGenere( List<Film> videoteca)
+    public static void RicercaFilm(List<Film> videoteca)
+    {
+        Console.Write("Come vuoi cercare il film (1.titolo,2.regista,3.genere,4.anno) ?: ");
+        int ricerca = int.Parse(Console.ReadLine());
+
+        switch (ricerca)
+        {
+            case 1:
+                SceltaTitolo(videoteca);
+                break;
+            case 2:
+                SceltaRegista(videoteca);
+                break;
+            case 3:
+                SceltaGenere(videoteca);
+                break;
+            case 4:
+                SceltaAnno(videoteca);
+                break;
+            default:
+                break;
+        }
+    }
+
+    public static void SceltaGenere(List<Film> videoteca)
     {
         int conto = 0;
         Console.Write("Inserisci il genere del film che vuoi vedere: ");
@@ -98,6 +122,66 @@ public class Program
         if (conto == 00)
         {
             Console.WriteLine("Non abbiamo film di questo genere, riprovare o aggiungerne uno");
+        }
+    }
+
+    public static void SceltaTitolo(List<Film> videoteca)
+    {
+        int conto = 0;
+        Console.Write("Inserisci il titolo del film che vuoi vedere: ");
+        string titolo = Console.ReadLine();
+
+        foreach (Film film in videoteca)
+        {
+            if (film.titolo.ToLower() == titolo.ToLower())
+            {
+                Console.WriteLine(film);
+                conto++;
+            }
+        }
+        if (conto == 00)
+        {
+            Console.WriteLine("Non abbiamo film con questo titolo, riprovare o aggiungerne uno");
+        }
+    }
+
+    public static void SceltaRegista(List<Film> videoteca)
+    {
+        int conto = 0;
+        Console.Write("Inserisci il titolo del film che vuoi vedere: ");
+        string regista = Console.ReadLine();
+
+        foreach (Film film in videoteca)
+        {
+            if (film.regista.ToLower() == regista.ToLower())
+            {
+                Console.WriteLine(film);
+                conto++;
+            }
+        }
+        if (conto == 00)
+        {
+            Console.WriteLine("Non abbiamo film di questo regista, riprovare o aggiungerne uno");
+        }
+    }
+    
+    public static void SceltaAnno( List<Film> videoteca)
+    {
+        int conto = 0;
+        Console.Write("Inserisci il titolo del film che vuoi vedere: ");
+        int anno = int.Parse(Console.ReadLine());
+
+        foreach (Film film in videoteca)
+        {
+            if (film.anno == anno)
+            {
+                Console.WriteLine(film);
+                conto++;
+            }
+        }
+        if (conto == 00)
+        {
+            Console.WriteLine("Non abbiamo film di questo anno, riprovare o aggiungerne uno");
         }
     }
 
