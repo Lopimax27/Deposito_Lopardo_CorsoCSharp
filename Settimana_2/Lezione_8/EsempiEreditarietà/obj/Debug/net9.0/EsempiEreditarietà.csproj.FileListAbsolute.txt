@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\bin\Debug\net9.0\EsempiEreditarietà.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\bin\Debug\net9.0\EsempiEreditarietà.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\bin\Debug\net9.0\EsempiEreditarietà.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\bin\Debug\net9.0\EsempiEreditarietà.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\bin\Debug\net9.0\EsempiEreditarietà.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\refint\EsempiEreditarietà.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\EsempiEreditarietà.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_8\EsempiEreditarietà\obj\Debug\net9.0\ref\EsempiEreditarietà.dll
