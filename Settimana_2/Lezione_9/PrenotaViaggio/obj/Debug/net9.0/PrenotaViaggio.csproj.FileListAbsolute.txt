@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\bin\Debug\net9.0\PrenotaViaggio.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\bin\Debug\net9.0\PrenotaViaggio.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\bin\Debug\net9.0\PrenotaViaggio.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\bin\Debug\net9.0\PrenotaViaggio.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\bin\Debug\net9.0\PrenotaViaggio.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\refint\PrenotaViaggio.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\PrenotaViaggio.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\PrenotaViaggio\obj\Debug\net9.0\ref\PrenotaViaggio.dll

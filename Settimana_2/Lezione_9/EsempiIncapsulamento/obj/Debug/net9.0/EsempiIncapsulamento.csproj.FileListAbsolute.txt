@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\bin\Debug\net9.0\EsempiIncapsulamento.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\bin\Debug\net9.0\EsempiIncapsulamento.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\bin\Debug\net9.0\EsempiIncapsulamento.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\bin\Debug\net9.0\EsempiIncapsulamento.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\bin\Debug\net9.0\EsempiIncapsulamento.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\refint\EsempiIncapsulamento.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\EsempiIncapsulamento.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempiIncapsulamento\obj\Debug\net9.0\ref\EsempiIncapsulamento.dll
