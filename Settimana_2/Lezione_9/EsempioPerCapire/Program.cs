@@ -1,26 +1,26 @@
 ﻿using System;
-using System.Runtime.InteropServices.Marshalling;
 
-public class Studente
+public class Animale
 {
-    private string _nome;
-    private string _cognome;
-    private double _media;
-
-    public string Nome { get; set; }
-    public string Cognome { get; set; }
-    public double Media { get; set; }
-
-    public Studente()
+    public virtual void FaiVerso()
     {
-        _nome = Nome;
-        _cognome = Cognome;
-        _media = Media;
+        Console.WriteLine("L'animale fa un verso");
     }
+}
 
-    public override string ToString()
+public class Cane : Animale
+{
+    public override void FaiVerso()
     {
-        return $"Nome: {Nome} Cognome: {Cognome} Media: {Media}";
+        Console.WriteLine("Il cane abbaia.");
+    }
+}
+
+public class Gatto : Animale
+{
+    public override void FaiVerso()
+    {
+        Console.WriteLine("Il gatto miagola.");
     }
 }
 
@@ -28,11 +28,13 @@ public class Program
 {
     public static void Main()
     {
-        Studente student1 = new Studente();
-        student1.Nome = Console.ReadLine();
-        student1.Cognome = Console.ReadLine();
-        student1.Media = double.Parse(Console.ReadLine());
-        
-        Console.Write(student1);
+        List<Animale> animali = new List<Animale>();
+        animali.Add(new Cane());
+        animali.Add(new Gatto());
+
+        foreach (Animale an in animali)
+        {
+            an.FaiVerso();
+        }
     }
 }
