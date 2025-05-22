@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\bin\Debug\net9.0\EsempioPerCapire.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\bin\Debug\net9.0\EsempioPerCapire.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\bin\Debug\net9.0\EsempioPerCapire.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\bin\Debug\net9.0\EsempioPerCapire.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\bin\Debug\net9.0\EsempioPerCapire.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\refint\EsempioPerCapire.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\EsempioPerCapire.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_9\EsempioPerCapire\obj\Debug\net9.0\ref\EsempioPerCapire.dll

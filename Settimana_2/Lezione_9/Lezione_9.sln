@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsempiIncapsulamento", "Ese
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrenotaViaggio", "PrenotaViaggio\PrenotaViaggio.csproj", "{7BD8FFF7-E10B-4CBF-9240-39AD76C9B7F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsempioPerCapire", "EsempioPerCapire\EsempioPerCapire.csproj", "{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{7BD8FFF7-E10B-4CBF-9240-39AD76C9B7F4}.Release|x64.Build.0 = Release|Any CPU
 		{7BD8FFF7-E10B-4CBF-9240-39AD76C9B7F4}.Release|x86.ActiveCfg = Release|Any CPU
 		{7BD8FFF7-E10B-4CBF-9240-39AD76C9B7F4}.Release|x86.Build.0 = Release|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Release|x64.Build.0 = Release|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{4479F9D4-373E-43F3-8A13-EC2AEDCB28DA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
