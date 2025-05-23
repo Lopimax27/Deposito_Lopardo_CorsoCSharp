@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\bin\Debug\net9.0\Operatore.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\bin\Debug\net9.0\Operatore.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\bin\Debug\net9.0\Operatore.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\bin\Debug\net9.0\Operatore.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\bin\Debug\net9.0\Operatore.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\refint\Operatore.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\Operatore.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Operatore\obj\Debug\net9.0\ref\Operatore.dll

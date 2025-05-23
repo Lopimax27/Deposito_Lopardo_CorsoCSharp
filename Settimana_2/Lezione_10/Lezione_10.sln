@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfismoEsempio", "Poli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Officina", "Officina\Officina.csproj", "{1917D9EF-9DCF-413E-B807-4D658B0FD1C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatore", "Operatore\Operatore.csproj", "{0A5A51F9-096A-4350-89C4-29868F40D200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{1917D9EF-9DCF-413E-B807-4D658B0FD1C4}.Release|x64.Build.0 = Release|Any CPU
 		{1917D9EF-9DCF-413E-B807-4D658B0FD1C4}.Release|x86.ActiveCfg = Release|Any CPU
 		{1917D9EF-9DCF-413E-B807-4D658B0FD1C4}.Release|x86.Build.0 = Release|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Debug|x64.Build.0 = Debug|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Debug|x86.Build.0 = Debug|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Release|x64.ActiveCfg = Release|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Release|x64.Build.0 = Release|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Release|x86.ActiveCfg = Release|Any CPU
+		{0A5A51F9-096A-4350-89C4-29868F40D200}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
