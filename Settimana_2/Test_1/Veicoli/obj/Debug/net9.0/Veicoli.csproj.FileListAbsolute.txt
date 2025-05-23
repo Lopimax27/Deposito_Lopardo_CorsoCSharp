@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\bin\Debug\net9.0\Veicoli.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\bin\Debug\net9.0\Veicoli.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\bin\Debug\net9.0\Veicoli.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\bin\Debug\net9.0\Veicoli.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\bin\Debug\net9.0\Veicoli.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\refint\Veicoli.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\Veicoli.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\Veicoli\obj\Debug\net9.0\ref\Veicoli.dll

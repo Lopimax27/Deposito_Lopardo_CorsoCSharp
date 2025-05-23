@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\bin\Debug\net9.0\ContoCorrente.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\bin\Debug\net9.0\ContoCorrente.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\bin\Debug\net9.0\ContoCorrente.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\bin\Debug\net9.0\ContoCorrente.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\bin\Debug\net9.0\ContoCorrente.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\refint\ContoCorrente.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ContoCorrente.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Test_1\ContoCorrente\obj\Debug\net9.0\ref\ContoCorrente.dll
