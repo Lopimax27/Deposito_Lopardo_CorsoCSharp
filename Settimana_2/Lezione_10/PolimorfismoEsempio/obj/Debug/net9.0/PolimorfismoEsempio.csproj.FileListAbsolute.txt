@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\bin\Debug\net9.0\PolimorfismoEsempio.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\bin\Debug\net9.0\PolimorfismoEsempio.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\bin\Debug\net9.0\PolimorfismoEsempio.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\bin\Debug\net9.0\PolimorfismoEsempio.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\bin\Debug\net9.0\PolimorfismoEsempio.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\refint\PolimorfismoEsempio.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\PolimorfismoEsempio.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\PolimorfismoEsempio\obj\Debug\net9.0\ref\PolimorfismoEsempio.dll

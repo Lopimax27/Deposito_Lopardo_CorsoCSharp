@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\bin\Debug\net9.0\Officina.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\bin\Debug\net9.0\Officina.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\bin\Debug\net9.0\Officina.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\bin\Debug\net9.0\Officina.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\bin\Debug\net9.0\Officina.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\refint\Officina.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\Officina.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_2\Lezione_10\Officina\obj\Debug\net9.0\ref\Officina.dll
