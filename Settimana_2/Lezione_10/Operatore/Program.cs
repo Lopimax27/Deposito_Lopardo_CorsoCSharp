@@ -204,10 +204,10 @@ public class Program
     public static Operatore InputOperatore()
     {
         Console.WriteLine("Inserisci il nome del Operatore: ");
-        string nome = Console.ReadLine();
+        string nome = TryStringa();
 
         Console.WriteLine("Inserisci il turno dell'Operatore (giorno/notte): ");
-        string turno = Console.ReadLine();
+        string turno = TryStringa();
 
         Console.WriteLine("L'operatore è uno di Emergenza,Sicurezza o Logistica (1,2,3)");
         int scelta = int.Parse(Console.ReadLine());
@@ -220,7 +220,7 @@ public class Program
                 return op1;
             case 2://Sicurezza
                 OperatoreSicurezza op2 = new OperatoreSicurezza { Nome = nome, Turno = turno };
-                op2.areaSorvegliata = Console.ReadLine();
+                op2.areaSorvegliata = TryStringa();
                 return op2;
             case 3://Logistica
                 OperatoreLogistica op3 = new OperatoreLogistica { Nome = nome, Turno = turno };
@@ -259,5 +259,34 @@ public class Program
             Console.Write($"{count}: ");
             o.EseguiCompito();
         }
+    }
+
+    public static string TryStringa()
+    {
+        string? parola;
+        bool inputValido = false;
+
+        do
+        {
+            try
+            {
+                parola = Console.ReadLine();
+
+                if (string.IsNullOrWhiteSpace(parola))
+                {
+                    Console.WriteLine("Input non valido o vuoto riprovare");
+                    continue;
+                }
+
+                inputValido = true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Errore: {ex.Message}");
+                parola = null;
+            }
+        } while (!inputValido);
+
+        return parola;
     }
 }
