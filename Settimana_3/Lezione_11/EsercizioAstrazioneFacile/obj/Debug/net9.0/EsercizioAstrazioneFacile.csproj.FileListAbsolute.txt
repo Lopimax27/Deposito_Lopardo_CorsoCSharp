@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\bin\Debug\net9.0\EsercizioAstrazioneFacile.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\bin\Debug\net9.0\EsercizioAstrazioneFacile.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\bin\Debug\net9.0\EsercizioAstrazioneFacile.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\bin\Debug\net9.0\EsercizioAstrazioneFacile.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\bin\Debug\net9.0\EsercizioAstrazioneFacile.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\refint\EsercizioAstrazioneFacile.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\EsercizioAstrazioneFacile.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_11\EsercizioAstrazioneFacile\obj\Debug\net9.0\ref\EsercizioAstrazioneFacile.dll
