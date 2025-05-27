@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\bin\Debug\net9.0\EsempioDesignPattern1.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\bin\Debug\net9.0\EsempioDesignPattern1.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\bin\Debug\net9.0\EsempioDesignPattern1.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\bin\Debug\net9.0\EsempioDesignPattern1.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\bin\Debug\net9.0\EsempioDesignPattern1.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\refint\EsempioDesignPattern1.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\EsempioDesignPattern1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsempioDesignPattern1\obj\Debug\net9.0\ref\EsempioDesignPattern1.dll

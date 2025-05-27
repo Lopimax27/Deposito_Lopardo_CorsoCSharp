@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\bin\Debug\net9.0\EsercizioSingleton.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\bin\Debug\net9.0\EsercizioSingleton.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\bin\Debug\net9.0\EsercizioSingleton.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\bin\Debug\net9.0\EsercizioSingleton.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\bin\Debug\net9.0\EsercizioSingleton.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\refint\EsercizioSingleton.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\EsercizioSingleton.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingleton\obj\Debug\net9.0\ref\EsercizioSingleton.dll

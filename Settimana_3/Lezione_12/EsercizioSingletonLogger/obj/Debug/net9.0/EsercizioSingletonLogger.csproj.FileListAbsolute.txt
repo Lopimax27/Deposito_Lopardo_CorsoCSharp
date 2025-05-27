@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\bin\Debug\net9.0\EsercizioSingletonLogger.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\bin\Debug\net9.0\EsercizioSingletonLogger.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\bin\Debug\net9.0\EsercizioSingletonLogger.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\bin\Debug\net9.0\EsercizioSingletonLogger.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\bin\Debug\net9.0\EsercizioSingletonLogger.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\refint\EsercizioSingletonLogger.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\EsercizioSingletonLogger.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_12\EsercizioSingletonLogger\obj\Debug\net9.0\ref\EsercizioSingletonLogger.dll
