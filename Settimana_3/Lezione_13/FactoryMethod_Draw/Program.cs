@@ -52,6 +52,10 @@ public class Triangle : IShape
     }
 }
 
+/// <summary>
+/// Classe astratta creator che ha il metodo astratto CreateShape che utilizzera la classe figlia e il metodo concreto Genera che prende in input il tipo e richiama createShape 
+/// e se non è nulla la disegna
+/// </summary>
 public abstract class ShapeCreator
 {
     public abstract IShape CreateShape(string type);
@@ -68,6 +72,9 @@ public abstract class ShapeCreator
     }
 }
 
+/// <summary>
+/// La classe concreta creatore di forme che implementa il metodo CreateShape con uno switch per scegliere
+/// </summary>
 public class ConcreteShapeCreator : ShapeCreator
 {
     public override IShape CreateShape(string type)
@@ -87,8 +94,12 @@ public class ConcreteShapeCreator : ShapeCreator
     }
 }
 
+//Classe menu con metodi statici per essere richiamati fuori dalla classe stessa
 public class Menu()
 {
+    /// <summary>
+    /// Metodo di scelta Menu con uno switch che gestisce le scelte dell'utente
+    /// </summary>
     public static void ScelteMenu()
     {
         bool x = true;//variabile booleane che ti fa uscire dal ciclo do 
@@ -112,6 +123,11 @@ public class Menu()
             }
         } while (x);
     }
+
+    /// <summary>
+    /// Metodo input privato per essere richiamato solo dalla classe menu e non all'esterno che richiede che forma creare e
+    /// crea l'oggetto v in che è un creatore di forme che genera una forma concreta
+    /// </summary>
     private static void Input()
     {
         Console.WriteLine("Insersci cosa vuoi inserire (square o circle o triangle)");
