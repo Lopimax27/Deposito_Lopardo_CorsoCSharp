@@ -32,13 +32,13 @@ public sealed class ConfigurazioneSistema
     }
 
     /// <summary>
-    /// 
+    /// Metodo che imposta i valori del dizionario se non sono già presenti altrimenti aggiorna il valore
     /// </summary>
     /// <param name="chiave"></param>
     /// <param name="valore"></param>
     public void Imposta(string chiave, string valore)
     {
-        if (chiave_valore.ContainsKey(chiave))
+        if (chiave_valore.ContainsKey(chiave))//Controlla che la chiave sia presente nel dizionario
         {
             chiave_valore[chiave] = valore;
         }
@@ -48,9 +48,14 @@ public sealed class ConfigurazioneSistema
         }
     }
 
+    /// <summary>
+    /// Metodo di lettura delle chiavi nella configurazione
+    /// </summary>
+    /// <param name="chiave"></param>
+    /// <returns>il valore della chiave</returns>
     public string Leggi(string chiave)
     {
-        if (chiave_valore.ContainsKey(chiave))
+        if (chiave_valore.ContainsKey(chiave))//Controlla che la chiave sia presente nel dizionario
         {
             return chiave;
         }
@@ -61,6 +66,9 @@ public sealed class ConfigurazioneSistema
         }
     }
 
+    /// <summary>
+    /// Funzione stampa tutte le configurazione nel dizionario chiave e anche valore
+    /// </summary>
     public void StampaTutte()
     {
         foreach (object s in chiave_valore)
@@ -70,28 +78,31 @@ public sealed class ConfigurazioneSistema
     }
 }
 public class Modulo
-{ 
+{
+    /// <summary>
+    /// Metodo config che ti porta nel menu per impostare, leggere l'istanza della configurazione di sistema
+    /// </summary>
     public void Config()
     {
         Console.WriteLine("Benvenuto nel Modulo A");
-        bool x = true;
+        bool x = true;//variabile booleane che ti fa uscire dal ciclo do 
         do
         {
-
+            //Visualizzazione Menu
             Console.WriteLine("1.Inserisci chiave e valore da aggiungere alla configurazione\n2.Cerca e leggi un valore della chiave richiesto\n0.Esci");
-            int scelta = int.Parse(Console.ReadLine());
+            int scelta = int.Parse(Console.ReadLine());//Scelta per lo switch
             switch (scelta)
             {
                 case 1:
-                    InputKV();
+                    InputKV();//Richiamo Funzione di input
                     break;
                 case 2:
-                    Console.WriteLine("Inserisci la chiave da cercare: ");
-                    string chiave = Console.ReadLine();
+                    Console.WriteLine("Inserisci la chiave da cercare: "); // MEssaggio per ricevere la chiave
+                    string chiave = Console.ReadLine(); //variabile chiave da mettere nella funzione leggi
                     ConfigurazioneSistema.Instance.Leggi(chiave);
                     break;
                 case 0:
-                    x = false;
+                    x = false;//imposta bool a false per uscire
                     break;
                 default:
                     Console.WriteLine("Scelta non valida");
@@ -100,6 +111,9 @@ public class Modulo
         } while (x);
     }
 
+    /// <summary>
+    /// Funzione per prendere in input chiave e valore e le salve grazie ad imposta
+    /// </summary>
     protected void InputKV()
     {
         Console.WriteLine("Inserisci la chiave: ");
@@ -111,26 +125,33 @@ public class Modulo
         ConfigurazioneSistema.Instance.Imposta(chiave, value);
     }
 }
+
+//classe derivata moduloA
 public class ModuloA : Modulo
 {
 
 }
 
+//Classe derivata moduloB
 public class ModuloB : Modulo
 {
 
 }
 
+
 public class Program
 {
     public static void Main()
     {
+        //Variabili moduloA e moduloB
         ModuloA a = new ModuloA();
         ModuloB b = new ModuloB();
 
+        //Richiamo funzioni config
         a.Config();
         b.Config();
 
+        //Stampa tutte le configurazioni
         ConfigurazioneSistema.Instance.StampaTutte();
     }
 
