@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\bin\Debug\net9.0\Factory_Singleton.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\bin\Debug\net9.0\Factory_Singleton.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\bin\Debug\net9.0\Factory_Singleton.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\bin\Debug\net9.0\Factory_Singleton.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\bin\Debug\net9.0\Factory_Singleton.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\refint\Factory_Singleton.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\Factory_Singleton.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\Factory_Singleton\obj\Debug\net9.0\ref\Factory_Singleton.dll
