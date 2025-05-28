@@ -96,7 +96,10 @@ public class Progrma
             switch (scelta)
             {
                 case 1:
-                    
+                    Console.WriteLine("Insersci cosa vuoi inserire (auto,camion,moto)");
+                    VeicoloFactory v = new ConcreteCreator();
+                    v.Genera();
+                    veicolo.Add(v);
                     break;
                 case 0:
                     x = false;//imposta bool a false per uscire

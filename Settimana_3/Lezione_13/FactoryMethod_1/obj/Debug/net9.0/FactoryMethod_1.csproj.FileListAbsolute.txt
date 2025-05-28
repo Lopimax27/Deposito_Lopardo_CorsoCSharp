@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\bin\Debug\net9.0\FactoryMethod_1.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\bin\Debug\net9.0\FactoryMethod_1.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\bin\Debug\net9.0\FactoryMethod_1.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\bin\Debug\net9.0\FactoryMethod_1.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\bin\Debug\net9.0\FactoryMethod_1.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\refint\FactoryMethod_1.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\FactoryMethod_1.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_1\obj\Debug\net9.0\ref\FactoryMethod_1.dll
