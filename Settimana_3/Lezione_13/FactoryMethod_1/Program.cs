@@ -54,7 +54,7 @@ public abstract class VeicoloFactory
         IVeicolo veicolo = CreaVeicolo(tipo);
 
         if (veicolo != null)
-        { 
+        {
             veicolo.Avvia();
             veicolo.MostraTipo();
         }
@@ -81,25 +81,22 @@ public class ConcreteCreator : VeicoloFactory
     }
 }
 
-public class Progrma
+public class MenuVeicolo
 {
-    public static void Main()
+    List<object> veicolo = new List<object>();
+    public void ScelteMenu()
     {
-        List<object> veicolo = new List<object>();
         bool x = true;//variabile booleane che ti fa uscire dal ciclo do 
         do
         {
             //Visualizzazione Menu
             Console.WriteLine("1.Genera un veicolo a scelta\n0.Esci");
             int scelta = int.Parse(Console.ReadLine());//Scelta per lo switch
-            
+
             switch (scelta)
             {
                 case 1:
-                    Console.WriteLine("Insersci cosa vuoi inserire (auto,camion,moto)");
-                    VeicoloFactory v = new ConcreteCreator();
-                    v.Genera();
-                    veicolo.Add(v);
+                    Input();
                     break;
                 case 0:
                     x = false;//imposta bool a false per uscire
@@ -108,6 +105,23 @@ public class Progrma
                     Console.WriteLine("Scelta non valida");
                     break;
             }
-        } while (x) ;
+        } while (x);
+    }
+    private void Input()
+    {
+        Console.WriteLine("Insersci cosa vuoi inserire (auto,camion,moto)");
+        VeicoloFactory v = new ConcreteCreator();
+        v.Genera();
+        veicolo.Add(v);
+    }
+}
+
+public class Progrma
+{
+    public static void Main()
+    {
+        MenuVeicolo menu = new MenuVeicolo();
+
+        menu.ScelteMenu();
     }
 }
