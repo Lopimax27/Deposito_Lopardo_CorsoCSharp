@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\bin\Debug\net9.0\FactoryMethod_Draw.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\bin\Debug\net9.0\FactoryMethod_Draw.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\bin\Debug\net9.0\FactoryMethod_Draw.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\bin\Debug\net9.0\FactoryMethod_Draw.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\bin\Debug\net9.0\FactoryMethod_Draw.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\refint\FactoryMethod_Draw.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\FactoryMethod_Draw.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_13\FactoryMethod_Draw\obj\Debug\net9.0\ref\FactoryMethod_Draw.dll
