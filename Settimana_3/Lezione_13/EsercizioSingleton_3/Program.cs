@@ -151,7 +151,7 @@ public class Program
         a.Config();
         b.Config();
 
-        //Stampa tutte le configurazioni
+        //Stampa tutte le configurazionnni
         ConfigurazioneSistema.Instance.StampaTutte();
     }
 
