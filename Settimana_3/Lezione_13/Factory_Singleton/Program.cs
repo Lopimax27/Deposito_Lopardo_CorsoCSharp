@@ -1,16 +1,27 @@
 ﻿using System;
 
+/// <summary>
+/// Singleton con una lista interna che registra i veicoli presenti
+/// </summary>
 public sealed class RegistroVeicolo
 {
+    //Creazione dell'istanza 
     private static RegistroVeicolo _instance;
 
+    //Creazione dellalista di oggetti con interfaccia veicoli 
     private List<IVeicolo> veicoliCreati;
 
+    /// <summary>
+    /// Costruttore privato che genera la lista vuota di veicoli
+    /// </summary>
     private RegistroVeicolo()
     {
         veicoliCreati = new List<IVeicolo>();
     }
 
+    /// <summary>
+    /// Proprietà che genera l'istanza del singleton solo se non è stata già generata
+    /// </summary>
     public static RegistroVeicolo Instance
     {
         get
@@ -23,6 +34,10 @@ public sealed class RegistroVeicolo
         }
     }
 
+    /// <summary>
+    /// Metodo void che prende in input un veicolo che se non è vuoto lo inserisce nella lista del registroVeicolo
+    /// </summary>
+    /// <param name="veicolo"></param>
     public void Registra(IVeicolo veicolo)
     {
         if (veicolo != null)
@@ -35,6 +50,9 @@ public sealed class RegistroVeicolo
         }
     }
 
+    /// <summary>
+    /// Metodo che stampa tutti i veicoli nella lista del singleton RegistraVeicoli
+    /// </summary>
     public void StampaTutti()
     {
         int count = 0;
@@ -45,6 +63,10 @@ public sealed class RegistroVeicolo
         }
     }
 }
+
+/// <summary>
+/// Intefaccia IVeicolo con i 3 metodi void Avvia MostraTipo e AssegnaTarga
+/// </summary>
 public interface IVeicolo
 {
     void Avvia();
@@ -52,10 +74,17 @@ public interface IVeicolo
     void AssegnaTarga(string targa);
 }
 
+/// <summary>
+/// Classe concreta auto con i metodi del interfaccia implementati e la targa
+/// </summary>
 public class ConcreteAuto : IVeicolo
 {
+    //Campo privato targa
     private string _targa;
 
+    /// <summary>
+    /// Proprietà per leggere il valore di targa
+    /// </summary>
     public string Targa
     {
         get
@@ -63,21 +92,35 @@ public class ConcreteAuto : IVeicolo
             return _targa;
         }
     }
+    /// <summary>
+    /// Metodo assegna targa implementato che imposta la targa uguale alla stringa ricevuta in input
+    /// </summary>
+    /// <param name="t"></param>
     public void AssegnaTarga(string t)
     {
         _targa = t;
     }
+
+    /// <summary>
+    /// Metodo implementato Avvia che stampa un messaggio
+    /// </summary>
     public void Avvia()
     {
         Console.WriteLine("Avvio dell'auto");
     }
 
+    /// <summary>
+    /// Metodo che stampa la descrizione del veicolo con la targa e il tipo
+    /// </summary>
     public void MostraTipo()
     {
         Console.WriteLine($"Targa: {Targa} Tipo: Auto");
     }
 }
 
+/// <summary>
+/// Classe concreta moto con i metodi dell'interfaccia e la targa
+/// </summary>
 public class ConcreteMoto : IVeicolo
 {
     private string _targa;
@@ -103,6 +146,10 @@ public class ConcreteMoto : IVeicolo
         Console.WriteLine($"Targa: {Targa} Tipo: Moto");
     }
 }
+
+/// <summary>
+/// Classe concreta Camion con i metodi dell'interfaccia e la targa
+/// </summary>
 public class ConcreteCamion : IVeicolo
 {
     private string _targa;
@@ -129,10 +176,17 @@ public class ConcreteCamion : IVeicolo
     }
 }
 
+/// <summary>
+/// Classe creatore Veicolo Factory con metodo astratto CreaVeicolo e metodo concreto Genera
+/// </summary>
 public abstract class VeicoloFactory
 {
+    //Crea veicolo prende in input una stringa con il tipo
     public abstract IVeicolo CreaVeicolo(string tipo);
 
+    /// <summary>
+    /// Metodo che genera il veicolo prendendo in input il tipo, lo crea poi assegna la targa e poi se non è nullo lo inserisce nella lista dell'istanza 
+    /// </summary>
     public void Genera()
     {
         string tipo = Console.ReadLine();
@@ -150,6 +204,9 @@ public abstract class VeicoloFactory
     }
 }
 
+/// <summary>
+/// Creatore Concreto che in base allo switch crea il veicolo concreto
+/// </summary>
 public class ConcreteCreator : VeicoloFactory
 {
     public override IVeicolo CreaVeicolo(string tipo)
@@ -183,12 +240,12 @@ public class Program
             switch (scelta)
             {
                 case 1:
-                    Console.WriteLine("Inserisci cosa vuoi inserire (auto,camion,moto)");
-                    VeicoloFactory v = new ConcreteCreator();
+                    Console.WriteLine("Inserisci cosa vuoi inserire (auto,camion,moto)");//scelta
+                    VeicoloFactory v = new ConcreteCreator();//creazione del creatore concreto
                     v.Genera();
                     break;
                 case 2:
-                    RegistroVeicolo.Instance.StampaTutti();
+                    RegistroVeicolo.Instance.StampaTutti();//Richiama dell'istanza che stampa tutti gli elementi della lista
                     break;
                 case 0:
                     x = false;//imposta bool a false per uscire
