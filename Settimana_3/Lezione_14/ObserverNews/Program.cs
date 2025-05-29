@@ -29,10 +29,18 @@ public class EmailClient : IObserver
     }
 }
 
+public class Tv : IObserver
+{
+    public void Update(string messaggio)
+    {
+        Console.WriteLine($"Il presentatore dice: {messaggio} ");
+    }
+}
+
 public sealed class ConcreteNewsAgency : INewsAgency
 {
     private static ConcreteNewsAgency _instance;
-    private IObserver _observer;
+    private List<IObserver> _observer = new List<IObserver>();
 
     private ConcreteNewsAgency()
     {
@@ -53,15 +61,18 @@ public sealed class ConcreteNewsAgency : INewsAgency
 
     public void Attach(IObserver observer)
     {
-        _observer = observer;
+        _observer.Add(observer);
     }
     public void Detach(IObserver observer)
     {
-        _observer = null;
+        _observer.Remove(observer);
     }
     public void News(string messaggio)
     {
-        _observer.Update(messaggio);
+        foreach (var observer in _observer)
+        {
+            observer.Update(messaggio);
+        }
     }
 }
 
@@ -69,18 +80,61 @@ public class Program
 {
     public static void Main()
     {
-        var agenzia = ConcreteNewsAgency.Instance;
-        var email = new EmailClient();
-        var mobile = new MobileApp();
-
-        agenzia.Attach(mobile);
-        agenzia.News("Sei un campione");
-
-        var agenzia2 = ConcreteNewsAgency.Instance;
-
-        agenzia2.Attach(email);
-        agenzia2.News("Il napoli ha vinto lo scudetto");
-
-        Console.WriteLine(agenzia == agenzia2);
+        Menu.SceltaMenu();
     }
+}
+
+public class Menu
+{
+    public static void SceltaMenu()
+    {
+        var agenzia1 = ConcreteNewsAgency.Instance;
+
+        bool controllo = true;
+        do
+        {
+            Console.WriteLine("1.Inserisci la news di oggi\n2.Dove vuoi inviare la notizia?\n0.Esci");
+            int scelta = int.Parse(Console.ReadLine());
+
+            switch (scelta)
+            {
+                case 1:
+                    Console.WriteLine("Inserisci la news: ");
+                    string news = Console.ReadLine();
+                    agenzia1.News(news);
+
+                    break;
+                case 2:
+                    agenzia1.Attach(Scelta());
+                    break;
+                case 0:
+                    controllo = false;
+                    break;
+                default:
+                    Console.WriteLine("Scelta non valida");
+                    break;
+            }
+
+        } while (controllo);
+    }
+
+    public static IObserver Scelta()
+    {
+        Console.WriteLine("Inserisci se inviare su email, tv o mobile (1,2,3): ");
+        int scelta = int.Parse(Console.ReadLine());
+        switch (scelta)
+        {
+            case 1:
+                return new EmailClient();
+            case 2:
+                return new Tv();
+            case 3:
+                return new MobileApp();
+            default:
+                Console.WriteLine("Errore");
+                return null;
+        }
+    }
+
+
 }
