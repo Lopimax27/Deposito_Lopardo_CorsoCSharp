@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ObserverEs1/1.0.0": {
+        "runtime": {
+          "ObserverEs1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObserverEs1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

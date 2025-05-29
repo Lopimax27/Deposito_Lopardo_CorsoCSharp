@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactoryMethod_Draw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e419ec89b8f4eb3be52a3be8e10a15f082e1609")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e369563d72528b96c3ec5e2867bd080a4d1d4d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactoryMethod_Draw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactoryMethod_Draw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
