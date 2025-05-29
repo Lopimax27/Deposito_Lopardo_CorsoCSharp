@@ -6,13 +6,6 @@ public interface IObserver
     void Update(string messaggio);
 }
 
-public class ConcreteObserver
-{
-    public void Update(string messaggio)
-    { 
-        
-    }
-}
 public interface INewsAgency
 {
     void Attach(IObserver observer);
