@@ -5,7 +5,14 @@ public interface ITorta
     string Descrizione();
 }
 
-public class TortaCioccolato:ITorta
+public class TortaBase:ITorta
+{
+    public string Descrizione()
+    {
+        return "Torta base";
+    }
+}
+public class TortaCioccolato : ITorta
 {
     public string Descrizione()
     {
@@ -93,6 +100,8 @@ public static class TortaFactory
                 return new TortaVaniglia();
             case "frutta":
                 return new TortaFrutta();
+            case "base":
+                return new TortaBase();
             default:
                 return null;
         }
@@ -106,6 +115,10 @@ public class Program
         Console.WriteLine("Inserisci la base torta vaniglia/cioccolato/frutta: ");
         string tipo = Console.ReadLine();
         var torta = TortaFactory.CreaTortaBase(tipo);
+        if (torta == null)
+        {
+            torta = TortaFactory.CreaTortaBase("base");
+        }
 
         bool controllo = true;
         do
@@ -113,7 +126,7 @@ public class Program
             Console.WriteLine("Cosa vuoi aggiungere panna,glassa,fragola o nulla: ");
             string aggiunta = Console.ReadLine();
 
-            switch (aggiunta)
+            switch (aggiunta.ToLower())
             {
                 case "panna":
                     torta = new ConPanna(torta);
