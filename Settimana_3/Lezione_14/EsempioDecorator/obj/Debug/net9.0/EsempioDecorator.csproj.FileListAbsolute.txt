@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\bin\Debug\net9.0\EsempioDecorator.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\bin\Debug\net9.0\EsempioDecorator.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\bin\Debug\net9.0\EsempioDecorator.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\bin\Debug\net9.0\EsempioDecorator.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\bin\Debug\net9.0\EsempioDecorator.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\refint\EsempioDecorator.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\EsempioDecorator.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\EsempioDecorator\obj\Debug\net9.0\ref\EsempioDecorator.dll

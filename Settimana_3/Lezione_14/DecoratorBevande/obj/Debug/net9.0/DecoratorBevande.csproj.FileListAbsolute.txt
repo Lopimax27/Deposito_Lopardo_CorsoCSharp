@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\bin\Debug\net9.0\DecoratorBevande.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\bin\Debug\net9.0\DecoratorBevande.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\bin\Debug\net9.0\DecoratorBevande.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\bin\Debug\net9.0\DecoratorBevande.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\bin\Debug\net9.0\DecoratorBevande.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\refint\DecoratorBevande.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\DecoratorBevande.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorBevande\obj\Debug\net9.0\ref\DecoratorBevande.dll
