@@ -58,6 +58,15 @@ public class DisplayMobile : IObserver
     }
 }
 
+public class DisplayMirko : IObserver
+{
+    public void Update(string dati)
+    {
+        Console.WriteLine($"Messaggio per Mirko:{dati} Ma smettila di mutarmi");
+    }
+}
+
+
 public class Program
 {
     public static void Main()
@@ -65,9 +74,11 @@ public class Program
         var centroMeteo = new CentroMeteo();
         var console = new DisplayConsole();
         var mobile = new DisplayMobile();
+        var mirko = new DisplayMirko();
         centroMeteo.Attach(console);
         centroMeteo.Attach(mobile);
-        
+        centroMeteo.Attach(mirko);
+
         bool controllo = true;
         do
         {
