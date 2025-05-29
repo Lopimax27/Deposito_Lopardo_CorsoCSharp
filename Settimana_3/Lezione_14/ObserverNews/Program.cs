@@ -1,11 +1,16 @@
 ﻿using System;
 
-
+/// <summary>
+/// Interfaccia  observer con metodo da implementare update
+/// </summary>
 public interface IObserver
 {
     void Update(string messaggio);
 }
 
+/// <summary>
+/// Interfaccia NewsAgency con metodi attach detach e news
+/// </summary>
 public interface INewsAgency
 {
     void Attach(IObserver observer);
@@ -13,6 +18,9 @@ public interface INewsAgency
     void News(string messaggio);
 }
 
+/// <summary>
+/// Classe concreta dell'observer mobile
+/// </summary>
 public class MobileApp : IObserver
 {
     public void Update(string messaggio)
@@ -21,6 +29,9 @@ public class MobileApp : IObserver
     }
 }
 
+/// <summary>
+/// Classe concreta del observer email
+/// </summary>
 public class EmailClient : IObserver
 {
     public void Update(string messaggio)
@@ -29,6 +40,9 @@ public class EmailClient : IObserver
     }
 }
 
+/// <summary>
+/// Classe concreta dell'observer di tv
+/// </summary>
 public class Tv : IObserver
 {
     public void Update(string messaggio)

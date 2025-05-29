@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\bin\Debug\net9.0\Observer_Factory.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\bin\Debug\net9.0\Observer_Factory.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\bin\Debug\net9.0\Observer_Factory.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\bin\Debug\net9.0\Observer_Factory.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\bin\Debug\net9.0\Observer_Factory.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\refint\Observer_Factory.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\Observer_Factory.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\Observer_Factory\obj\Debug\net9.0\ref\Observer_Factory.dll
