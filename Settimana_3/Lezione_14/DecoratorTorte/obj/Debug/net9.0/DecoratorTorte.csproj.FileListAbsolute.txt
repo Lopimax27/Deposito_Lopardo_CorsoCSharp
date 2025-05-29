@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\bin\Debug\net9.0\DecoratorTorte.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\bin\Debug\net9.0\DecoratorTorte.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\bin\Debug\net9.0\DecoratorTorte.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\bin\Debug\net9.0\DecoratorTorte.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\bin\Debug\net9.0\DecoratorTorte.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\refint\DecoratorTorte.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\DecoratorTorte.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_14\DecoratorTorte\obj\Debug\net9.0\ref\DecoratorTorte.dll
