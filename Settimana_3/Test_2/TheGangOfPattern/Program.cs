@@ -250,13 +250,34 @@ public class Program
 {
     public static void Main()
     {
+
+        bool controllo2 = true;
+        do
+        {
+            Console.WriteLine("1.Ordina la pizza\n0.Esci");
+            int numero = int.Parse(Console.ReadLine());
+
+            switch (numero)
+            {
+                case 1:
+                    Ordinazioni();
+                    break;
+                case 0:
+                    controllo2 = false;
+                    break;
+            }
+        } while (controllo2);
+    }
+
+    public static void Ordinazioni()
+    {
         var ordini = GestoreOrdine.GetInstance();
         var log = new SistemaLog();
         var market = new SistemaMarketing();
 
         ordini.Attach(log);
         ordini.Attach(market);
-        
+
         Console.WriteLine("Inserisci la pizza tra diavola,margherita e vegetariana:");
         string tipo = Console.ReadLine();
         var pizza = PizzaFactory.CreaPizza(tipo);
@@ -314,5 +335,12 @@ public class Program
 
         Console.WriteLine("Ecco la tua pizza");
         ordini.Notify(chef.PreparaPizza(pizza));
+
+        Console.WriteLine("Vuoi stampare tutti gli ordini?");
+        bool siONo = bool.Parse(Console.ReadLine());
+        if (siONo)
+        {
+            ordini.StampaOrdini();
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\bin\Debug\net9.0\TheGangOfPattern.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\bin\Debug\net9.0\TheGangOfPattern.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\bin\Debug\net9.0\TheGangOfPattern.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\bin\Debug\net9.0\TheGangOfPattern.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\bin\Debug\net9.0\TheGangOfPattern.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\refint\TheGangOfPattern.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\TheGangOfPattern.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Test_2\TheGangOfPattern\obj\Debug\net9.0\ref\TheGangOfPattern.dll
