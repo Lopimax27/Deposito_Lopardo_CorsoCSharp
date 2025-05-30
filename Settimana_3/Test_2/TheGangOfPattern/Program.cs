@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Runtime.CompilerServices;
+
 
 public interface IObserver
 {
@@ -180,6 +179,20 @@ public class FornoVentilato : ICotturaStrategy
         return $"{descrizione} Cottura: forno ventilato";
     }
 }
+public class Pizzaiolo
+{
+    public ICotturaStrategy prepStrategy;
+
+    public void ImpostaStrategy(ICotturaStrategy p)
+    {
+        prepStrategy = p;
+    }
+
+    public string PreparaPizza(IPizza pizza)
+    {
+        return prepStrategy.Cottura(pizza.Descrizione());
+    }
+}
 
 public sealed class GestoreOrdine : IOrdini
 {
@@ -237,6 +250,13 @@ public class Program
 {
     public static void Main()
     {
+        var ordini = GestoreOrdine.GetInstance();
+        var log = new SistemaLog();
+        var market = new SistemaMarketing();
+
+        ordini.Attach(log);
+        ordini.Attach(market);
+        
         Console.WriteLine("Inserisci la pizza tra diavola,margherita e vegetariana:");
         string tipo = Console.ReadLine();
         var pizza = PizzaFactory.CreaPizza(tipo);
@@ -270,5 +290,29 @@ public class Program
                     break;
             }
         } while (controllo);
+
+        Pizzaiolo chef = new Pizzaiolo();
+
+        Console.WriteLine("Scegli il metodo di cottura\n1.Legna\n2.Ventilato\n3.Elettrico");
+        int scelta = int.Parse(Console.ReadLine());
+
+        switch (scelta)
+        {
+            case 1:
+                chef.ImpostaStrategy(new FornoLegna());
+                break;
+            case 2:
+                chef.ImpostaStrategy(new FornoVentilato());
+                break;
+            case 3:
+                chef.ImpostaStrategy(new FornoElettrico());
+                break;
+            default:
+                Console.WriteLine("Scelta non valida");
+                break;
+        }
+
+        Console.WriteLine("Ecco la tua pizza");
+        ordini.Notify(chef.PreparaPizza(pizza));
     }
 }
