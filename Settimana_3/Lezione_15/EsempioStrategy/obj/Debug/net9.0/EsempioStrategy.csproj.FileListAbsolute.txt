@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\bin\Debug\net9.0\EsempioStrategy.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\bin\Debug\net9.0\EsempioStrategy.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\bin\Debug\net9.0\EsempioStrategy.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\bin\Debug\net9.0\EsempioStrategy.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\bin\Debug\net9.0\EsempioStrategy.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\refint\EsempioStrategy.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\EsempioStrategy.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\EsempioStrategy\obj\Debug\net9.0\ref\EsempioStrategy.dll
