@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StrategyPiatto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a47b0de458e162c316c5bcf945c5a9666869b3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69a1081cbfbc5e9eb05d1cb0df4fb64e48dfa980")]
 [assembly: System.Reflection.AssemblyProductAttribute("StrategyPiatto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StrategyPiatto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
