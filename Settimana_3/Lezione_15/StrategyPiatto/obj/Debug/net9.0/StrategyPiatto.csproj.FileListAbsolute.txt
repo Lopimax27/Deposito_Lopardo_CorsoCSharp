@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\bin\Debug\net9.0\StrategyPiatto.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\bin\Debug\net9.0\StrategyPiatto.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\bin\Debug\net9.0\StrategyPiatto.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\bin\Debug\net9.0\StrategyPiatto.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\bin\Debug\net9.0\StrategyPiatto.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\refint\StrategyPiatto.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\StrategyPiatto.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_3\Lezione_15\StrategyPiatto\obj\Debug\net9.0\ref\StrategyPiatto.dll
