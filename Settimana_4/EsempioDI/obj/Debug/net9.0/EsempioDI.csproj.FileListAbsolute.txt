@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\bin\Debug\net9.0\EsempioDI.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\bin\Debug\net9.0\EsempioDI.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\bin\Debug\net9.0\EsempioDI.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\bin\Debug\net9.0\EsempioDI.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\bin\Debug\net9.0\EsempioDI.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\refint\EsempioDI.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\EsempioDI.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\EsempioDI\obj\Debug\net9.0\ref\EsempioDI.dll
