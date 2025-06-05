@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\bin\Debug\net9.0\EnumeratoriTipoTransazione.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\bin\Debug\net9.0\EnumeratoriTipoTransazione.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\bin\Debug\net9.0\EnumeratoriTipoTransazione.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\bin\Debug\net9.0\EnumeratoriTipoTransazione.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\bin\Debug\net9.0\EnumeratoriTipoTransazione.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\refint\EnumeratoriTipoTransazione.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\EnumeratoriTipoTransazione.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_4\Lezione 18\EnumeratoriTipoTransazione\obj\Debug\net9.0\ref\EnumeratoriTipoTransazione.dll
