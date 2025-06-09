@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\bin\Debug\net9.0\RicercaLista.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\bin\Debug\net9.0\RicercaLista.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\bin\Debug\net9.0\RicercaLista.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\bin\Debug\net9.0\RicercaLista.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\bin\Debug\net9.0\RicercaLista.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\refint\RicercaLista.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\RicercaLista.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\Lezione 24\RicercaLista\obj\Debug\net9.0\ref\RicercaLista.dll
