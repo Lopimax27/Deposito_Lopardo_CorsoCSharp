@@ -1,0 +1,151 @@
+-- Comando che seleziona tutta la tabella attore da sakila
+SELECT*FROM actor
+where first_name like "ma%" or first_name like  "%a";
+
+/* Select distinct restituisce valori distinti senza ripetizioni
+SELECT FROM WHERE where è una condizione e like serve per fare ricerche se infinite altre lettere % nel punto in cui si trova
+altrimenti utilizziamo _ per una lettera che puo essere qualsiasi lettera ma un tot definito da quanti placeholder presenti
+*/
+-- film che abbiano un rating G e un pental rate di 0.99 o 4.99
+SELECT * from film
+where rating = "G" and (rental_rate like 0.99 or rental_rate like 4.99);
+
+ESERCIZI LV 1
+
+-- Visualizza tutti i dati della tabella film
+SELECT*FROM film;
+
+-- Visualizza solo titolo e durata di tutti i film
+SELECT title,length FROM film;
+
+-- Visualizza titolo e rating dei film che durano piu di 120 min
+SELECT title,rating FROM film 
+where length > 120;
+
+-- Visualizza i clienti che vivono nella citta con ID 312
+SELECT*FROM customer
+where address_id=312;
+
+-- Visualizza tutti i pagamenti con importo 5.99
+SELECT*FROM payment
+where amount=5.99;
+
+ESERCIZI LV 2
+
+-- Mostra film che durano +90 min e rating PG
+SELECT*FROM film
+where length>90 and rating="PG";
+
+-- Visualizza i clienti che vivono nella città 312 o 459 
+SELECT*FROM customer
+where address_id=312 or address_id=459;
+
+-- Visualizza film con durata ainferiore a 80 o superiore a 180
+SELECT*FROM film
+where length<80 or length>180;
+
+-- Visualizza film con rating R
+SELECT*FROM film
+where rating != "R";
+
+-- Visualizza i pagamenti che non non hanno valori compresi tra 2 e 5
+SELECT*FROM payment
+where not(amount>2 and amount<5);
+
+ESERCIZI LIVELLO 3
+
+-- TUTTI I DATI FILM
+select*from film;
+
+-- Film con rating tra PG e R
+SELECT*FROM film
+where rating between "PG" and "R";
+
+-- Film con rating G PG o PG-13
+Select*from film
+where rating != "NC-17" and rating !="R";
+
+-- Film che iniziano con la parola the
+Select*from film
+where title like "the%";
+
+-- Nomi che iniziano con la a
+Select*from customer
+where first_name like "a%";
+
+-- Rental in cui la data di ritorno è nulla
+Select*from rental
+where return_date is null;
+
+ESERCIZI LIV 4
+
+-- Visualizza i primi dieci film per durata decrescente 
+Select*from film
+order by length, replacement_cost DESC 
+limit 10;
+
+-- Mostra i 5 clienti più recenti in base alla create date
+Select*from customer
+order by create_date DESC
+limit 5;
+
+-- Visualizza tutti i rating distinti dei film nel database
+Select distinct rating from film;
+
+-- Importi unici nella tabella payment dal alto verso il basso
+Select distinct amount from payment
+order by amount Desc;
+
+-- I 3 film con rating PG13 più lunghi
+Select * from film
+where rating="PG-13"
+order by length DESC
+limit 3;
+
+Esercizi Liv 1 Funzioni
+-- Mostra il titolo e la lunghezza del titolo numero di caratteri
+Select title, length(title) as LunghezzaTitle from film;
+
+-- Visualizza nome e cognome customer in maiuscolo
+Select upper(first_name), upper(last_name) from customer;
+
+-- Visualizza i primi 10 film con titolo in minuscolo
+Select lower(title) from film
+limit 10; 
+
+ESERCIZI LIV 2 Funzioni
+
+-- Mostra per ogni film una colonna con il titolo completo in formato TITOLO RATING
+Select concat(title, " (", rating, ")") as TitoloCompleto from film;
+
+-- Mostra i primi caratteri del titolo dei primi 10 film 
+Select left(title,10) as TitoloCorto from film;
+
+-- Mostra gli ultimi 5 caratteri per i primi 10 film
+Select right(title,5) as TitoloFinale from film 
+limit 10;
+
+-- Mostra una colonna con le prime 3 lettere del cognome di ogni cliente
+Select left(last_name,3) from customer;
+
+-- Estrai e mostra la seconda parola del titolo nei film che iniziano con the 
+Select title, description, substring(description,locate("A " ,description)+2,locate(" ",description,3)-2) as FilmConThe from film
+where description like "A %";
+
+-- Visualizza i clienti con la loro data di creazione e la data attuale
+Select first_name, last_name,create_date,Now() as DataAttuale from customer; 
+
+-- Giorni passati dalla data di creazione a oggi
+Select datediff(Now(),create_date) from customer;
+
+-- Visualizza l'anno di creazione
+Select year(create_date) from customer;
+
+-- Visualizza i rent nel nel 2005 
+Select * from rental
+where year(rental_date)=2005;
+
+-- I primi 10 clienti e quanti giorni fa si sono registrati 
+Select *, Datediff(Now(),create_date) as giorni_registrato from customer
+limit 10;
+

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2NumeriArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b21acc766209255bea8addc47d473761d942fefb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d8f8ee5d9353512f98134c8939c67ea7cf3f62")]
 [assembly: System.Reflection.AssemblyProductAttribute("2NumeriArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2NumeriArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

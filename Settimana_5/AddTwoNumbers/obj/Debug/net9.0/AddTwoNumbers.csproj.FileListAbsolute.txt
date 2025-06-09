@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\bin\Debug\net9.0\AddTwoNumbers.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\bin\Debug\net9.0\AddTwoNumbers.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\bin\Debug\net9.0\AddTwoNumbers.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\bin\Debug\net9.0\AddTwoNumbers.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\bin\Debug\net9.0\AddTwoNumbers.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\refint\AddTwoNumbers.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\AddTwoNumbers.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_5\AddTwoNumbers\obj\Debug\net9.0\ref\AddTwoNumbers.dll
