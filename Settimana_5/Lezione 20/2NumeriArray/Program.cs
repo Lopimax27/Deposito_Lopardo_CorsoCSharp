@@ -6,12 +6,11 @@
         for (int i = 0; i < nums.Length; i++)
         {
             map[nums[i]] = i;
-
-            int complemento = target - nums[i];
-
-            if (map.ContainsKey(complemento) && map[complemento] != i)
+            int complement = target - nums[i];
+            
+            if (map.ContainsKey(complement) && map[complement] != i)
             {
-                return new int[] { i, map[complemento] };
+                return new int[] { i, map[complement] };
             }
         }
         return new int[] {};
