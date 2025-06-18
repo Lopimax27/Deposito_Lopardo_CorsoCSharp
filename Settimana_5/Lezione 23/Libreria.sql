@@ -15,11 +15,9 @@ cognome varchar(100),
 email varchar(100) UNIQUE NOT NULL,
 telefono varchar(15) UNIQUE NOT NULL,
 indirizzo_id int,
+saldo decimal(10,2)
 Foreign key (indirizzo_id) references indirizzo(indirizzo_id)
 );
-
-alter table utente 
-add column saldo float not null;
 
 Create table indirizzo(
 indirizzo_id int primary key auto_increment,
@@ -32,7 +30,15 @@ foreign key (citta_id) references citta(citta_id)
 Create table citta(
 citta_id int primary key auto_increment,
 citta varchar(50) unique not null
+paese_id int unique
+foreign key (paese_id) references paese(paese_id)
 );
+
+Create table paese
+(
+    paese_id int primary key auto_increment,
+    paese varchar(100)
+)
 
 Create table ordine(
 ordine_id int primary key auto_increment,

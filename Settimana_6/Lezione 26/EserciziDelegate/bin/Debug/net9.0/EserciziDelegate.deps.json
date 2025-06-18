@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EserciziDelegate/1.0.0": {
+        "runtime": {
+          "EserciziDelegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EserciziDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\bin\Debug\net9.0\EserciziDelegate.exe
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\bin\Debug\net9.0\EserciziDelegate.deps.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\bin\Debug\net9.0\EserciziDelegate.runtimeconfig.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\bin\Debug\net9.0\EserciziDelegate.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\bin\Debug\net9.0\EserciziDelegate.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.sourcelink.json
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\refint\EserciziDelegate.dll
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.pdb
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\EserciziDelegate.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ale\Corso C#\Deposito_Lopardo_CorsoCSharp\Settimana_6\Lezione 26\EserciziDelegate\obj\Debug\net9.0\ref\EserciziDelegate.dll
